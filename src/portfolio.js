@@ -107,25 +107,35 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "Simple Lern",
-    //   subtitle: "Flutter International Hackathon",
-    //   logo_path: "flutter.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
-    //   alt_name: "Flutter International Hackathon",
-    //   color_code: "#2AAFED",
-    // },
-    // {
-    //   title: "Postman Student Expert",
-    //   subtitle: "Postman",
-    //   logo_path: "postman.png",
-    //   certificate_link:
-    //     "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
-    //   alt_name: "Postman",
-    //   // color_code: "#f36c3d",
-    //   color_code: "#fffbf3",
-    // },
+    {
+      title: "free code campe",
+      subtitle: "Front End Development Libraries",
+      logo_path: "freecodecamp.jpeg",
+      certificate_link:
+        "https://drive.google.com/file/d/17LRrY_KRcA7VA2JZnJaZiyzxiYCKoRDk/view?usp=sharing",
+      alt_name: "Front End Development Libraries",
+      color_code: "black",
+    },
+    {
+      title: "skill Up",
+      subtitle: "JavaScript Essentials",
+      logo_path: "simplelern.jpeg",
+      certificate_link:
+        "https://drive.google.com/file/d/1hmof0d4Ci481F-KrxJ-IbTjtXIdkVfGW/view?usp=sharing",
+      alt_name: "JavaScript Essentials",
+      color_code: "#007bb8",
+      // color_code: "#fffbf3",
+    },
+    {
+      title: "simplilearn",
+      subtitle: "React Fundamentals",
+      logo_path: "simplelern.jpeg",
+      certificate_link:
+        "https://drive.google.com/file/d/1rga4jZIoY6Vs5b8eBlD_w85jjaQrEwiJ/view?usp=sharing",
+      alt_name: "React Fundamentals",
+      color_code: "#ed872d",
+      // color_code: "#fffbf3",
+    },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
